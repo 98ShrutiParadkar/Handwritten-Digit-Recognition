@@ -45,7 +45,8 @@ The neural network used in this project has the following architecture:
 4. **Output Layer**: Fully connected layer with 10 neurons and softmax activation for multi-class classification.
 
 ### **Model Diagram:**
-![model_architecture](https://github.com/user-attachments/assets/754490d2-887f-4300-86d4-51c16e83e167)
+![1](https://github.com/user-attachments/assets/2a0828ce-4b96-469f-8842-c98e81b5dc11)
+
 
 ## 🚀 How to Run the Project
 ### **1. Clone the Repository**
