@@ -31,8 +31,8 @@ The MNIST dataset is a collection of handwritten digits commonly used as a bench
 - **60,000 training images** and **10,000 test images**.
 - Each image is 28x28 pixels in grayscale.
 - Labels range from 0 to 9, representing the digit in the image.
-
-![mnist_samples](https://github.com/user-attachments/assets/200c8d3a-9316-4abf-b363-d651cc2622e7)
+- 
+![Sample](https://github.com/user-attachments/assets/c9e496d9-d1bb-446b-b6f0-d151ceff7ba3)
 
 
 
