@@ -32,7 +32,7 @@ The MNIST dataset is a collection of handwritten digits commonly used as a bench
 - Each image is 28x28 pixels in grayscale.
 - Labels range from 0 to 9, representing the digit in the image.
 
-![MNIST Sample Images](https://via.placeholder.com/600x300.png?text=Sample+MNIST+Images)
+![mnist_samples](https://github.com/user-attachments/assets/200c8d3a-9316-4abf-b363-d651cc2622e7)
 
 
 
@@ -45,9 +45,7 @@ The neural network used in this project has the following architecture:
 4. **Output Layer**: Fully connected layer with 10 neurons and softmax activation for multi-class classification.
 
 ### **Model Diagram:**
-![Model Diagram](https://via.placeholder.com/600x400.png?text=Model+Architecture)
-
-
+![model_architecture](https://github.com/user-attachments/assets/754490d2-887f-4300-86d4-51c16e83e167)
 
 ## 🚀 How to Run the Project
 ### **1. Clone the Repository**
@@ -55,6 +53,11 @@ The neural network used in this project has the following architecture:
 git clone https://github.com/yourusername/handwritten-digit-recognition.git
 cd handwritten-digit-recognition
 ```
+## **Accuracy Plot:**
+![accuracy_plot](https://github.com/user-attachments/assets/6f27fa51-d0d1-4f52-81fc-1759fc02d70e)
+
+## **Output:**
+![sample_predictions_grid](https://github.com/user-attachments/assets/4cc3db26-5f2e-4f74-88f4-10d613a05574)
 
 ## 📌 Future Scope
 - Implement a Convolutional Neural Network (CNN) for improved accuracy.
