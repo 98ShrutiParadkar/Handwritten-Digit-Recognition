@@ -57,7 +57,7 @@ cd handwritten-digit-recognition
 ![accuracy_plot](https://github.com/user-attachments/assets/6f27fa51-d0d1-4f52-81fc-1759fc02d70e)
 
 ## **Output:**
-![sample_predictions_grid](https://github.com/user-attachments/assets/4cc3db26-5f2e-4f74-88f4-10d613a05574)
+![predicted](https://github.com/user-attachments/assets/59d08622-7754-416c-b1f6-7c82ee5fc44d)
 
 ## 📌 Future Scope
 - Implement a Convolutional Neural Network (CNN) for improved accuracy.
